@@ -7,3 +7,4 @@ Molly
 igor
 kirill
 Add Line
+inna name.txt
